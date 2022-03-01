@@ -12,7 +12,7 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.7"
 python-soql-parser = "^0.1.0"
 responses = "^0.13.2"
 decorator = "^5.0.7"
